@@ -57,13 +57,8 @@
 
     <section>
         <h2>About Me</h2>
-        <p>With 13 years of extensive experience in System Design, Data Structures and Algorithms, Distributed Systems, Cloud Computing, and Software Engineering, I have made significant contributions to the development of Telecom solutions for various flagship programs of the Government of India, such as 5G, 4G, BharatNet, Digital India, Lawful Interception Project, Smart Cities, and Disaster Resilient India. My work has had a direct impact on improving the quality of public life.
-
-As a graduate in Computer Science and Engineering from NITK Surathkal, I am currently working as a Senior Research Engineer at the Centre for Development of Telematics (C-DOT), the Telecom Technology Centre of the Government of India. My primary research interests encompass the expansive domain of networked systems, where I enjoy tackling challenging research problems that intersect computer networking and real-world computer systems. My ongoing work involves enhancing the performance of 4G/5G mobile packet core components and exploring next-generation designs for mobile packet core based on Network Function Virtualization (NFV) and Software Defined Networking (SDN) principles.
-
-I have tutored students in various areas, including Operating Systems, Computer Networking, Data Structures and Algorithms, Network Programming, Computer Organization and Architecture, RISC V, Kernel architectures, OS security, Network Security, Quality of Service in IP networks, Kernel bypass mechanisms (DPDK), Network I/O subsystem in Linux, Concurrent programming, NFV, and SDN. Additionally, I have assisted students and professionals in preparing for and successfully cracking coding and system design interviews.
-
-In my courses, I cover both high-level and low-level system design, ensuring a comprehensive understanding of the entire spectrum of system design concepts. I have also assisted students in preparing for coding and system design interviews using resources like LeetCode and HackerRank. By sharing my expertise and real-world experience, I aim to equip my students with the knowledge and skills necessary to excel in their academic and professional endeavors. Join me on this exciting journey to explore the fascinating world of system design, computer networking, data structures, algorithms, and more! Together, we will master problem-solving techniques, crack coding challenges, and become well-versed in the latest technology trends.</p>
+        <p>
+With 13 years of expertise in System Design, Data Structures, Algorithms, Distributed Systems, Cloud Computing, and Telecom solutions, I have contributed to flagship programs like 5G, BharatNet, Digital India, and Smart Cities, enhancing public life. As a Computer Science graduate from NITK Surathkal and Senior Research Engineer at C-DOT, I focus on advancing 4G/5G mobile packet core performance and exploring next-gen NFV and SDN-based designs. I tutor topics like Operating Systems, Networking, Kernel Architectures, and System Design, helping students and professionals excel in coding and system design interviews.</p>
     </section>
 
     <section class="skills">
