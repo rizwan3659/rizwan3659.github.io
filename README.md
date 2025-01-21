@@ -71,13 +71,11 @@
     <h2>Courses</h2>
     <ul>
         <li>Operating Systems</li>
-        <li>Networking Fundamentals</li>
-        <li>Kernel Architectures</li>
+        <li>Data Analysis and Machine learning using python</li>
+        <li>C++</li>
         <li>System Design</li>
         <li>Data Structures and Algorithms</li>
-        <li>Distributed Systems</li>
-        <li>Cloud Computing</li>
-        <li>Telecom Solutions and 5G</li>
+        <li>C</li>
     </ul>
 </section>
 
