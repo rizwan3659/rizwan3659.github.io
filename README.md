@@ -58,7 +58,7 @@
     <section>
         <h2>About Me</h2>
         <p>
-With 13 years of expertise in System Design, Data Structures, Algorithms, Distributed Systems, Cloud Computing, and Telecom solutions, I have contributed to flagship programs like 5G, BharatNet, Digital India, and Smart Cities, enhancing public life. As a Computer Science graduate from NITK Surathkal and Senior Research Engineer at C-DOT, I focus on advancing 4G/5G mobile packet core performance and exploring next-gen NFV and SDN-based designs. I tutor topics like Operating Systems, Networking, Kernel Architectures, and System Design, helping students and professionals excel in coding and system design interviews.</p>
+With 13 years of expertise in System Design, Data Structures, Algorithms, Distributed Systems, Cloud Computing, and Telecom solutions, I have contributed to flagship programs like 5G, BharatNet, Digital India, and Smart Cities, enhancing public life. As a Computer Science graduate from NITK Surathkal and Scientist D at C-DOT, I focus on advancing 4G/5G mobile packet core performance and exploring next-gen NFV and SDN-based designs. I tutor topics like Operating Systems, Networking, Kernel Architectures, and System Design, helping students and professionals excel in coding and system design interviews.</p>
     </section>
 
     <section class="skills">
