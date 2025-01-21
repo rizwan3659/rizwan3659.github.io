@@ -69,14 +69,14 @@
 <section class="courses">
     <h2>Courses</h2>
     <ul>
-        <li>Operating Systems</li>
-        <li>Data Analysis and Machine learning using python</li>
-        <li>C++</li>
-        <li>System Design</li>
-        <li>Data Structures and Algorithms</li>
-        <li>C</li>
+        <li><a href="/operating-systems.html">Operating Systems</a></li>
+        <li><a href="/data-analysis.html">Data Analysis and Machine Learning using Python</a></li>
+        <li><a href="/cpp.html">C++</a></li>
+        <li><a href="/system-design.html">System Design</a></li>
+        <li><a href="/data-structures-algorithms.html">Data Structures and Algorithms</a></li>
     </ul>
 </section>
+
 
 <footer>
     <p>&copy; 2025 Your Name. All rights reserved.</p>
