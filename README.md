@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -29,11 +29,11 @@
         h1, h2 {
             color: #2d3e50;
         }
-        .skills ul, .courses ul {
+        .courses ul {
             list-style-type: none;
             padding: 0;
         }
-        .skills li, .courses li {
+        .courses li {
             background-color: #efefef;
             padding: 10px;
             margin: 5px 0;
@@ -67,32 +67,22 @@
     </p>
 </section>
 
-<section class="skills">
-    <h2>Skills</h2>
-    <ul>
-        <li>Programming Languages: Python, Java, C++, JavaScript</li>
-        <li>Web Development: HTML, CSS, Node.js, React</li>
-        <li>Databases: MySQL, MongoDB</li>
-        <li>Version Control: Git, GitHub</li>
-        <li>Cloud Computing: AWS, Google Cloud</li>
-    </ul>
-</section>
-
 <section class="courses">
     <h2>Courses</h2>
     <ul>
-        <li>Operating Systems and Kernel Architectures</li>
+        <li>Operating Systems</li>
+        <li>Networking Fundamentals</li>
+        <li>Kernel Architectures</li>
+        <li>System Design</li>
         <li>Data Structures and Algorithms</li>
-        <li>Computer Networking and Network Programming</li>
-        <li>Quality of Service in IP Networks</li>
-        <li>Concurrent Programming and OS Security</li>
-        <li>Network Function Virtualization (NFV) and Software-Defined Networking (SDN)</li>
-        <li>RISC V and Computer Organization</li>
+        <li>Distributed Systems</li>
+        <li>Cloud Computing</li>
+        <li>Telecom Solutions and 5G</li>
     </ul>
 </section>
 
 <footer>
-    <p>© 2025 Your Name. All rights reserved.</p>
+    <p>&copy; 2025 Your Name. All rights reserved.</p>
 </footer>
 </body>
 </html>
