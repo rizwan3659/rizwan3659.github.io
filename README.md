@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio - Your Name</title>
+    <title>Portfolio - Rizwan Alam</title>
     <style>
         /* General body styling */
         body {
@@ -112,7 +112,7 @@
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
+        <h1>Rizwan Alam</h1>
         <p>Computer Science Educator | Mentor | Innovator</p>
     </header>
 
@@ -129,6 +129,7 @@
             <li><a href="/operating-systems.html">Operating Systems</a></li>
             <li><a href="/data-analysis.html">Data Analysis and Machine Learning using Python</a></li>
             <li><a href="/cpp.html">C++</a></li>
+             <li><a href="/cpp.html">C</a></li>
             <li><a href="/system-design.html">System Design</a></li>
             <li><a href="/data-structures-algorithms.html">Data Structures and Algorithms</a></li>
         </ul>
