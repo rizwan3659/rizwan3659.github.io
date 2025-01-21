@@ -1,8 +1,9 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio - Your Name</title>
+    <title>Operating Systems</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -25,19 +26,6 @@
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             max-width: 800px;
         }
-        h1, h2 {
-            color: #2d3e50;
-        }
-        .courses ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        .courses li {
-            background-color: #efefef;
-            padding: 10px;
-            margin: 5px 0;
-            border-radius: 5px;
-        }
         footer {
             background-color: #2d3e50;
             color: #fff;
@@ -55,31 +43,16 @@
 </head>
 <body>
 <header>
-    <h1>Your Name</h1>
-    <p>Computer Science Educator | Mentor | Innovator</p>
+    <h1>Operating Systems</h1>
 </header>
-
 <section>
-    <h2>About Me</h2>
+    <h2>Course Overview</h2>
     <p>
-        With 13 years of expertise in System Design, Data Structures, Algorithms, Distributed Systems, Cloud Computing, and Telecom solutions, I have contributed to flagship programs like 5G, BharatNet, Digital India, and Smart Cities, enhancing public life. As a Computer Science graduate from NITK Surathkal and Scientist D at C-DOT, I focus on advancing 4G/5G mobile packet core performance and exploring next-gen NFV and SDN-based designs. I tutor topics like Operating Systems, Networking, DSA, C++, C, Java, Python, and System Design, helping students and professionals excel in coding and system design interviews.
+        This course covers the fundamentals of operating systems, including process management, memory management, file systems, and concurrency.
     </p>
 </section>
-
-<section class="courses">
-    <h2>Courses</h2>
-    <ul>
-        <li><a href="/operating-systems.html">Operating Systems</a></li>
-        <li><a href="/data-analysis.html">Data Analysis and Machine Learning using Python</a></li>
-        <li><a href="/cpp.html">C++</a></li>
-        <li><a href="/system-design.html">System Design</a></li>
-        <li><a href="/data-structures-algorithms.html">Data Structures and Algorithms</a></li>
-    </ul>
-</section>
-
-
 <footer>
-    <p>&copy; 2025 Your Name. All rights reserved.</p>
+    <p><a href="index.html">Back to Portfolio</a></p>
 </footer>
 </body>
 </html>
