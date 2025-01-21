@@ -1,3 +1,5 @@
+
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,19 +20,20 @@
         }
         section {
             padding: 20px;
-            margin: 10px;
+            margin: 10px auto;
             background-color: #fff;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 800px;
         }
         h1, h2 {
             color: #2d3e50;
         }
-        .skills ul, .projects ul {
+        .skills ul, .courses ul {
             list-style-type: none;
             padding: 0;
         }
-        .skills li, .projects li {
+        .skills li, .courses li {
             background-color: #efefef;
             padding: 10px;
             margin: 5px 0;
@@ -46,63 +49,50 @@
             color: #2d3e50;
             text-decoration: none;
         }
+        a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
+<header>
+    <h1>Your Name</h1>
+    <p>Computer Science Educator | Mentor | Innovator</p>
+</header>
 
-    <header>
-        <h1>Your Name</h1>
-        <p>Computer Science Educator | Mentor | Innovator</p>
-    </header>
+<section>
+    <h2>About Me</h2>
+    <p>
+        With 13 years of expertise in System Design, Data Structures, Algorithms, Distributed Systems, Cloud Computing, and Telecom solutions, I have contributed to flagship programs like 5G, BharatNet, Digital India, and Smart Cities, enhancing public life. As a Computer Science graduate from NITK Surathkal and Scientist D at C-DOT, I focus on advancing 4G/5G mobile packet core performance and exploring next-gen NFV and SDN-based designs. I tutor topics like Operating Systems, Networking, Kernel Architectures, and System Design, helping students and professionals excel in coding and system design interviews.
+    </p>
+</section>
 
-    <section>
-        <h2>About Me</h2>
-        <p>
-With 13 years of expertise in System Design, Data Structures, Algorithms, Distributed Systems, Cloud Computing, and Telecom solutions, I have contributed to flagship programs like 5G, BharatNet, Digital India, and Smart Cities, enhancing public life. As a Computer Science graduate from NITK Surathkal and Scientist D at C-DOT, I focus on advancing 4G/5G mobile packet core performance and exploring next-gen NFV and SDN-based designs. I tutor topics like Operating Systems, Networking, Kernel Architectures, and System Design, helping students and professionals excel in coding and system design interviews.</p>
-    </section>
+<section class="skills">
+    <h2>Skills</h2>
+    <ul>
+        <li>Programming Languages: Python, Java, C++, JavaScript</li>
+        <li>Web Development: HTML, CSS, Node.js, React</li>
+        <li>Databases: MySQL, MongoDB</li>
+        <li>Version Control: Git, GitHub</li>
+        <li>Cloud Computing: AWS, Google Cloud</li>
+    </ul>
+</section>
 
-    <section class="skills">
-        <h2>Skills</h2>
-        <ul>
-            <li>Programming Languages: Python, Java, C++, JavaScript</li>
-            <li>Web Development: HTML, CSS, Node.js, React</li>
-            <li>Databases: MySQL, MongoDB</li>
-            <li>Version Control: Git, GitHub</li>
-            <li>Cloud Computing: AWS, Google Cloud</li>
-        </ul>
-    </section>
+<section class="courses">
+    <h2>Courses</h2>
+    <ul>
+        <li>Operating Systems and Kernel Architectures</li>
+        <li>Data Structures and Algorithms</li>
+        <li>Computer Networking and Network Programming</li>
+        <li>Quality of Service in IP Networks</li>
+        <li>Concurrent Programming and OS Security</li>
+        <li>Network Function Virtualization (NFV) and Software-Defined Networking (SDN)</li>
+        <li>RISC V and Computer Organization</li>
+    </ul>
+</section>
 
-    <section class="projects">
-        <h2>Projects</h2>
-        <ul>
-            <li><a href="https://github.com/username/project1">Project 1</a> - A web application for tracking student progress in coding challenges.</li>
-            <li><a href="https://github.com/username/project2">Project 2</a> - A Python tool to help students understand sorting algorithms through interactive visualization.</li>
-            <li><a href="https://github.com/username/project3">Project 3</a> - A collaborative educational platform built with React for computer science learning.</li>
-        </ul>
-    </section>
-
-    <section>
-        <h2>Teaching Experience</h2>
-        <p>I have been teaching computer science for over X years. I specialize in creating interactive lessons and fostering student engagement through hands-on projects and real-world applications. Here are some highlights:</p>
-        <ul>
-            <li>Instructor, Introduction to Computer Science – ABC University</li>
-            <li>Mentor, Coding Club – XYZ High School</li>
-            <li>Workshop Organizer, Python for Beginners – DEF Tech Conference</li>
-        </ul>
-    </section>
-
-    <section>
-        <h2>Certifications & Achievements</h2>
-        <ul>
-            <li>Certified Java Developer - Oracle</li>
-            <li>Google Cloud Certified – Professional Cloud Architect</li>
-            <li>Top 10 Educators of the Year – ABC University</li>
-        </ul>
-    </section>
-
-    <footer>
-        <p>Contact Me: <a href="mailto:yourname@example.com">yourname@example.com</a></p>
-    </footer>
-
+<footer>
+    <p>© 2025 Your Name. All rights reserved.</p>
+</footer>
 </body>
 </html>
