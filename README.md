@@ -127,7 +127,7 @@
         <h2>Courses</h2>
         <ul>
             <li><a href="/operating-systems.html">Operating Systems</a></li>
-            <li><a href="data_analysis_using_python/data-analysis.html">Data Analysis and Machine Learning using Python</a></li>
+            <li><a href="/data_analysis_using_python/data-analysis.html">Data Analysis and Machine Learning using Python</a></li>
             <li><a href="/cpp.html">C++</a></li>
              <li><a href="/cpp.html">C</a></li>
             <li><a href="/system-design.html">System Design</a></li>
