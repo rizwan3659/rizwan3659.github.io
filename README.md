@@ -142,8 +142,8 @@
             <br>
             <a href="https://linkedin.com/in/rizwanalam" target="_blank">LinkedIn</a> |
             <a href="https://github.com/rizwan3659" target="_blank">GitHub</a> |
-            <a href="https://github.com/rizwan3659" target="_blank">TeachorOn Profile</a> |
-            <a href="https://github.com/rizwan3659" target="_blank">SuperProf Profile</a> |
+            <a href="https://www.teacheron.com/tutor/3qr5" target="_blank">TeachorOn Profile</a> |
+            <a href="https://www.superprof.co.in/dashboard.html/my-listings/listing/11838288" target="_blank">SuperProf Profile</a> |
             <a href="mailto:riscogian@gmail.com">Email Me</a>
         </p>
     </footer>
