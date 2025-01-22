@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Computer Security</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: #fff;
+        }
+        h1 {
+            margin: 0;
+        }
+        h2 {
+            color: #333;
+        }
+        .course-content {
+            margin: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .module {
+            background-color: #fff;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        .module h3 {
+            margin-top: 0;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: #fff;
+            position: absolute;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Computer Security</h1>
+</header>
+
+<div class="course-content">
+    <section class="module">
+        <h3>Module 1: Introduction</h3>
+        <ul>
+            <li><a href="https://rizwan3659.github.io/computer_security/introduction.pdf">Introduction</a></li>
+        </ul>
+    </section>
+
+    <section class="module">
+        <h3>Module 2: Data Analysis with Python</h3>
+        <ul>
+            <li><a href="https://rizwan3659.github.io/computer_security/buffer_overflows.pdf">2A. Buffer Overflows</a></li>
+            <li><a href="https://rizwan3659.github.io/computer_security/format_string_double_free.pdf">2B. Format String and Double Free</a></li>
+            <li><a href="https:///rizwan3659.github.io/computer_security/other_vulnerabilities.pdf">2C. Other Vulnerabilities</a></li>
+        </ul>
+    </section>
+
+</div>
+
+<footer>
+    <p>&copy; 2025 Computer Security</p>
+</footer>
+
+</body>
+</html>
